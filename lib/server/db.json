@@ -1,0 +1,277 @@
+{
+  "produtos": [
+    {
+      "id": "0",
+      "nome": "Ipad",
+      "valor": "5000"
+    },
+    {
+      "id": "1",
+      "nome": "Iphone",
+      "valor": "8000"
+    },
+    {
+      "id": "2",
+      "nome": "Notebook",
+      "valor": "5500"
+    },
+    {
+      "id": "7",
+      "nome": "Nintendo Switch",
+      "valor": "2800"
+    },
+    {
+      "id": "6",
+      "nome": "PS4",
+      "valor": "3200"
+    },
+    {
+      "id": "29ae",
+      "produtos": "isa"
+    },
+    {
+      "id": "2fb4",
+      "produtos": "isa"
+    },
+    {
+      "0": {
+        "id": "1",
+        "nome": " isa",
+        "valor": " 1000"
+      },
+      "id": "65c3"
+    },
+    {
+      "0": {
+        "id": " \"id\": \"0\"",
+        "nome": "      \"nome\": \"Ipad\"",
+        "valor": "      \"valor\": \"5000\""
+      },
+      "id": "537d"
+    },
+    {
+      "0": {
+        "id": " \"id\": \"0\"",
+        "nome": " \"nome\": \"Ipad\"",
+        "valor": " \"valor\": \"5000\""
+      },
+      "id": "07b7"
+    },
+    {
+      "0": {
+        "id": "\"0\"",
+        "nome": " \"Ipad\"",
+        "valor": " \"5000\""
+      },
+      "id": "49c8"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "de5d"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "8db4"
+    },
+    {
+      "0": {
+        "id": "1",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "a05c"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "e1ed"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "393e"
+    },
+    {
+      "id": "672c"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "7415"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "de0b"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "f434"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "23fa"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "6af2"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "a3b0"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "a3eb"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "2500"
+      },
+      "id": "95ef"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "2500"
+      },
+      "id": "52bf"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "tv",
+        "valor": "8000"
+      },
+      "id": "c031"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "tv",
+        "valor": "8000"
+      },
+      "id": "7c80"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "tv",
+        "valor": "8000"
+      },
+      "id": "cacd"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "5b30"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "2466"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "4559"
+    },
+    {
+      "0": {
+        "id": "123",
+        "nome": "Smartphone",
+        "valor": "1500"
+      },
+      "id": "c6dd"
+    },
+    {
+      "0": {
+        "id": "45",
+        "nome": "sala",
+        "valor": "300"
+      },
+      "id": "e197"
+    },
+    {
+      "0": {
+        "id": "45",
+        "nome": "tv",
+        "valor": "300"
+      },
+      "id": "c330"
+    },
+    {
+      "id": "45",
+      "nome": "tv",
+      "valor": "5000"
+    },
+    {
+      "0": {
+        "id": "48",
+        "nome": "luv",
+        "valor": "320"
+      },
+      "id": "f722"
+    },
+    {
+      "0": {
+        "id": "47",
+        "nome": "LED",
+        "valor": "30"
+      },
+      "id": "5d29"
+    }
+  ]
+}
